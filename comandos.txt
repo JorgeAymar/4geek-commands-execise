@@ -1,0 +1,16 @@
+
+01-. cd thecmdchallenge/
+02-. pwd
+03-. ls -la
+04-. ls -R
+05-. clear
+06-. cat small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+07-. cd funcode ; ls -la *.js
+09-. mkdir /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/not-that-funny
+10-. find /workspace/exercise-terminal-challenge/ -name the-mostboring-text.txt | cp /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/lol.txt
+11-. find /workspace/exercise-terminal-challenge/ -name kids.jpg | mv /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/kids.jpg /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/images/hello/
+12-. rm -dr /workspace/exercise-terminal-challenge/thecmdchallenge/small-name/
+13-. find /workspace/exercise-terminal-challenge/ -name the-ultimate-joke.txt | cat /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol/the-ultimate-joke.txt
+14-. cd /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder ; rm -r *
+15-. vim /workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha/dragon-ball-jokes.md
+16-. En el VIM primera linea ejecutar el comando dd (borra linea) -> ESC; luego :wq!
